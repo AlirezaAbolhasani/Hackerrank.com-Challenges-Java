@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Hackerrank-Java
  * 11/26/2025
  */
-public class JavaDatatypes {
+public class JavaDatatypes_11 {
 
     /***
      * Input Format
